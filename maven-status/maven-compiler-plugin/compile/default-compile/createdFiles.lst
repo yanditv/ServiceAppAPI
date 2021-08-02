@@ -1,0 +1,5 @@
+com\example\Sistema_ventas\service\UsuarioService.class
+com\example\Sistema_ventas\controlador\UsuarioControlador.class
+com\example\Sistema_ventas\SistemaVentasApplication.class
+com\example\Sistema_ventas\modelo\Usuario.class
+com\example\Sistema_ventas\repositorio\UsuarioRepositorio.class
